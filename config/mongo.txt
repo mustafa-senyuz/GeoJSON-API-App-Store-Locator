@@ -1,0 +1,13 @@
+ npm i express mongoose dotenv node-geocoder cors nodemon
+
+genellemeler2020@gmail.com
+
+https://developer.mapquest.com/user/me/apps
+username : codcumus
+genellemeler2020@gmail.com
+PASS : Mapquest2021
+
+
+CSS link for index.html : https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+MAPBOX.com : https://account.mapbox.com/auth/signup/ ---- MUSTAFAS COMPANY
